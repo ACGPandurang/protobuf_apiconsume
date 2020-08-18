@@ -1,0 +1,14 @@
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.deps.json
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.dll
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\ref\TestApp.dll
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.pdb
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfoInputs.cache
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfo.cs
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.dll
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\ref\TestApp.dll
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.pdb
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.csprojAssemblyReference.cache
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.csproj.CoreCompileInputs.cache
+E:\Sample Application\Xamarin\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\XamlC.stamp
