@@ -1532,11 +1532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp\\TestApp.csproj",
+      "projectPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-      "outputPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp\\obj\\",
+      "outputPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

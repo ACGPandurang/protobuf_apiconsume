@@ -1416,11 +1416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp.iOS\\TestApp.iOS.csproj",
+      "projectUniqueName": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp.iOS\\TestApp.iOS.csproj",
       "projectName": "TestApp.iOS",
-      "projectPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp.iOS\\TestApp.iOS.csproj",
+      "projectPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp.iOS\\TestApp.iOS.csproj",
       "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-      "outputPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp.iOS\\obj\\",
+      "outputPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1441,8 +1441,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp\\TestApp.csproj": {
-              "projectPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp\\TestApp.csproj"
+            "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp\\TestApp.csproj": {
+              "projectPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp\\TestApp.csproj"
             }
           }
         }

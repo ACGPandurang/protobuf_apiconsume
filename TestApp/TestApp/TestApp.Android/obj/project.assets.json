@@ -2178,11 +2178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
+      "projectUniqueName": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
       "projectName": "TestApp.Android",
-      "projectPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
+      "projectPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp.Android\\TestApp.Android.csproj",
       "packagesPath": "C:\\Users\\pchopade\\.nuget\\packages\\",
-      "outputPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp.Android\\obj\\",
+      "outputPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2203,8 +2203,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp\\TestApp.csproj": {
-              "projectPath": "E:\\Sample Application\\Xamarin\\TestApp\\TestApp\\TestApp\\TestApp.csproj"
+            "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp\\TestApp.csproj": {
+              "projectPath": "E:\\Sample Application\\Xamarin\\protobuf_apiconsume\\TestApp\\TestApp\\TestApp\\TestApp.csproj"
             }
           }
         }
